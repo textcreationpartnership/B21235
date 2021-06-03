@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several choice histories of the medecines manner and method used in the cure of the plague. Written by that famous (and in this disease) incomparable physitian, Isbrandus Diemerbroick; a professor of physick. And now translated into English, with his own annotations upon every history. Wherein not onely the choicest antidotes are set down in his cures, but also several things which prove mortal to all that use them</title>
+            <author>Diemerbroeck, Ysbrand van, 1609-1674.</author>
+         </titleStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21235</idno><idno type="EEBO-CITATION">99828082</idno>
+  <idno type="VID">207760</idno>
+  <idno type="EEBO-PROQUEST">2248495103</idno>
+  
+            <idno type="STC">Wing D1416A</idno>
+            <idno type="PROQUEST">99828082</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828082e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207760)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1945:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several choice histories of the medecines manner and method used in the cure of the plague. Written by that famous (and in this disease) incomparable physitian, Isbrandus Diemerbroick; a professor of physick. And now translated into English, with his own annotations upon every history. Wherein not onely the choicest antidotes are set down in his cures, but also several things which prove mortal to all that use them</title>
+                  <author>Diemerbroeck, Ysbrand van, 1609-1674.</author>
+               </titleStmt>
+               <extent>[2], 56, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[for Matthew Keinton, at the sign of the Fountain in St. Pauls Church-Yard],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With final imprimatur leaf, which identifies printer.</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 1945 as Wing (2nd ed.) D1417.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Plague --  Prevention --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207760:1"/>
+            <p>SEVERAL CHOICE HISTORIES Of the MEDECINES <hi>MANNER</hi> and <hi>METHOD</hi> Used in the <hi>CƲRE</hi> of the PLAGUE.</p>
+            <p>WRITTEN By that Famous (and in this DISEASE) Incomparable Physitian, <hi>ISBRANDƲS DIEMERBROICK;</hi> A Professor of Physick.</p>
+            <p>
+               <hi>And now Translated into</hi> English, <hi>with his own ANNOTATIONS upon every</hi> HISTORY.</p>
+            <p>Wherein not onely the Choisest Antidotes are set down in his Cures, but also several Things which prove mortal to all that use them.</p>
+            <p>
+               <hi>London, Printed in the Year</hi> 1666.</p>
+            <pb facs="tcp:207760:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:207760:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:207760:3"/>
+            <pb n="1" facs="tcp:207760:3"/>
+            <head>FAMOUS HISTORIES of the METHOD IN THE <hi>CƲRING</hi> of the <hi>PLAGƲE.</hi>
+            </head>
+            <div n="1" type="history">
+               <head>The First Famous History.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Maid of <hi>Anth<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ni Vos,</hi> a Wine-Merchant, (1635. <hi>Novem.</hi> 6.) fell ill: about Evening I was called to Her: finding Her sick at Heart, and sick of a Feavor, with great pain in Her Head; Her Puls was quick and weak, and somewhat unequal, but kept her strength: She had two small Pustules about the bigness of Aniseed, read and painful; one <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the right Dug, and the other in that part of the Breast, where the Ribbs meet and joyn together.</p>
+               <pb n="2" facs="tcp:207760:4"/>
+               <p> A certain signe of the Plague. I prescribed her a Sudorifical Drink, which put her into a sweat all that night, by which she was much refreshed: which Sudorifick was thus made.</p>
+               <p>
+                  <hi>The Extract of Cardus Benedictus, and Salt of Wormwood, each one Scruple: of the Salt of Carduus half a Scruple, of Treacle Androm one Dram, of Treacle-water and Cardus Beuedictus water each one ounce: fifteen Drops of Oyl of Vitriol.</hi> Let these be made a Drink.</p>
+               <p>The next day the Pustules were as broad as the Nail of your Thumb, and were blackish Carbuncles, having upon the top of them a little Blather, which being crushed, there came out a black venemous Matter; and then the Carbuncle (which before lay hid) now appeared: upon which we lay'd <hi>Unguentum Apostolorum, &amp; Basilicum, and a Playster of Diachulum cum gummis.</hi>
+               </p>
+               <p>And, to quench her Thirst, We gave her this Juleb; <hi>Of Cardus water one pound, of Scabius and Vinegar of each half a pound, Sirrup of Citrons two ounces, and Oyl of Vitriol as much as to make it gustful:</hi> Let these be made into a Juleb.</p>
+               <p>In the afternoon I gave her the Sudorifical Drink again, upon which having sweat well, then that Carbuncle, the which was in the middle of the Ribbs, where they meet, and then the Poultess which I took care to be prepared, was lay'd to the Carbuucle, and shifted thrice a day.</p>
+               <p>I appointed them to take the quantity of a Hasle-nut three or four times a day, of this Electuary.</p>
+               <p>
+                  <hi>Of Species Liberantis one Dram, Elecampane, of Candid Orange<g ref="char:EOLhyphen"/>piele, of Diascordium Fracastorii.</hi>
+               </p>
+               <p>Then we gave the Juleb again (and the Boches separated from the adjoyning parts) and a Cleansing Ointment, mingled with <hi>Un<g ref="char:EOLhyphen"/>guentum Apostolorum,</hi> Anointed three or four times with it, and then with the <hi>Unguentum Aureum,</hi> which brought it to a Scar, the hallow place being filled with Flesh, She Recovered.</p>
+               <div type="annotations">
+                  <pb n="3" facs="tcp:207760:4"/>
+                  <head>Annotations.</head>
+                  <p>
+                     <hi>ANno Domini</hi> 1635, The Summer was very hot, Famous for this, That the two Potent Armies of <hi>France</hi> and <hi>Holland</hi> be<g ref="char:EOLhyphen"/>sieged <hi>Lovane</hi> in <hi>Brabant:</hi> In this Summer, the Plague, which then was very Malignant and Pestilential, and begun to be bad in <hi>No<g ref="char:EOLhyphen"/>viomagensis,</hi> by the coming of the two Armies: the cure of this Disease, by reason of the Newness of it, was difficult at the first: but not long after we found, in that Plague, that let<g ref="char:EOLhyphen"/>ing of blood was very good for the Sickness. About the end of <hi>September</hi> this Feaver was much abated, so that fewer then fell sick of it: but, in most of those who were sick of this Distemper, had Red and Purple Spots. At the end of <hi>October</hi> many were sick with<g ref="char:EOLhyphen"/>out these Spots, and died in two dayes: then letting of Blood was very hurtful: at <hi>November</hi> it began to be very bad.</p>
+               </div>
+            </div>
+            <div n="2" type="history">
+               <pb n="4" facs="tcp:207760:5"/>
+               <head>THE SECOND FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>
+                  <hi>PEter Van Vort,</hi> who lived at the Sign of the <hi>Queens Head, Jan.</hi> 24. 1636. was taken ill of the Plague: In the begin<g ref="char:EOLhyphen"/>ing desired my assistance; he Vomited, and was exceeding distempered: his Pulse swift, and unequal, his Head aked, and found a Swelling in one of his Groins: I prescribed a Sudori<g ref="char:EOLhyphen"/>fick, which in the Evening he took: <hi>Confection of Hiacinth, and Salt of Scordium one Scruple, the Salt of Cardus Benedictus half a Scruple, Theriace Androm, Diascordium, each two Scruple, Treacle VVater, and Cardus Benedictus one ounce, Oyl of Vitriol twelve Drops, mingled: let them be made up.</hi>
+               </p>
+               <p>He Sweated much all the night, but not sleeping; for I bid him he should not sleep within eight houres: After all the foremention<g ref="char:EOLhyphen"/>ed Symptomes (by this one Sweat) did vanish, and his Swelling in his Groine fell, and the Sick Man the next day gathered strength, and then for some dayes every day took once or twice of this Electuary.</p>
+               <pb n="5" facs="tcp:207760:5"/>
+               <p>
+                  <hi>Powder</hi> of <hi>Bezoar,</hi> 1. <hi>dram,</hi> the <hi>Roots</hi> of <hi>Elecampane,</hi> the <hi>pills</hi> of <hi>Oranges</hi> each 3. <hi>drams,</hi> of <hi>Treacle</hi> 1. <hi>dram, Diascordium</hi> 2. <hi>drams, Sirrup</hi> of <hi>Scordium</hi> q. s.</p>
+               <p>When as he thought himself cured, but had not gone to stool for some days, I gave him some Pestilentiall pills, half a dram, after which he went to stool twice or thrice; and after that wanted no more Medicines, being fully recovered.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>IN this acute Disease delayes are very dangerous, and I have often observed those, who in the begining of the disease take Medisines, are soon cured, but being neglected in the begining, the danger is very great: as <hi>Sennestus</hi> saith, lib. 4. <hi>de Febribus</hi> cap. 6. I think many men died because they took Antidotes no sooner, and that many might have been preserved, if taken before the poison had cor<g ref="char:EOLhyphen"/>rupted the humours: and I have observed that those who have taken medicines at first have done well, but if they do not take any thing within 12. hours after they are ill, not one in a hundred escapes.</p>
+               </div>
+            </div>
+            <div n="3" type="history">
+               <pb n="6" facs="tcp:207760:6"/>
+               <head>THE THIRD FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>
+                  <hi>GErharhd Lucas,</hi> one who sold Cherries in the Street <hi>Hesia,</hi> had the Plague, with a high Feavour, he had also great pain, and head-ach, an inward burning, driness of tongue, thirst, and paine under his arme, without a swelling, he took two Antidotes, by which he sweat very much; but after the second sweating, in stead of the swelling under his arme, there came a great Carbuncle; from which I presaged his death; the third day he died.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>CArbuncles, if in the place where Swellings are used to be, it is a presage of Death.</p>
+               </div>
+            </div>
+            <div n="4" type="history">
+               <pb n="7" facs="tcp:207760:6"/>
+               <head>THE FOURTH <hi>FAMOUS</hi> HISTORY</head>
+               <p>
+                  <hi>I Ames Vander,</hi> a valiant Captain, perceiving himselfe infected, having a great pain under his arme, without a swelling, pre<g ref="char:EOLhyphen"/>sently upon his own head sent for a Chyrurgion; he let him blood under his arme, having taken some ounces of blood, he went whom; forthwith he was taken with a great trembling, he vomited exceedingly, with great paine of heart and decay of strength: then they sent to me, I gave him a Sudorifick Electua<g ref="char:EOLhyphen"/>ry, which he vomited up: I gave him another Antidote which he kept, but could not sweat: the next day the Feaver increased much, the sick man was exceeding thirsty but cast up all drinks, he grew faintish untill Seven of the Clock at morning, then again coming to himselfe, he complained much of weakness and pain under his arme, died at noon.</p>
+               <div type="annotations">
+                  <pb n="8" facs="tcp:207760:7"/>
+                  <head>Annotations.</head>
+                  <p>
+                     <hi>FOrestus</hi> and <hi>Platerus</hi> being called to the Plague at <hi>Delph,</hi> present<g ref="char:EOLhyphen"/>ly let blood; and addeth, that all those who were let blood 12. or 24. hours after they were sick they died: We have observed that letting of blood never succeeded well unless it were some rare example, though in the begining of the distem<g ref="char:EOLhyphen"/>per, but those who ever, were let blod at any time (we observe) alwayes die.</p>
+               </div>
+            </div>
+            <div n="5" type="history">
+               <pb n="9" facs="tcp:207760:7"/>
+               <head>THE FIFTH <hi>FAMOUS</hi> HISTORY</head>
+               <p>
+                  <hi>IOhn Dubbart,</hi> being taken with a Feavor, no outwasd signe of the Plague, so that those of his house did not think that he died of the Plague, but within twelve hours after that he was put in the Coffin, they saw that many black spots appeared in him, certain signes of the Plague.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>SOmetimes the poison is so deadly, that they die before nature can send forth any thing, nature being weak sendeth forth neither Carbuncles nor Blaines, but after they are dead there appeareth black spots in his back: And therefore in the time of a great Palgue, you are not to think it is not the sickness, because no signs of it ap<g ref="char:EOLhyphen"/>peare, for many times either nature is come to that weakness, that it cannot expell it.</p>
+               </div>
+            </div>
+            <div n="6" type="history">
+               <pb n="10" facs="tcp:207760:8"/>
+               <head>THE SIXTH FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>A Certain Laundress, by name <hi>Belia,</hi> who washed clothes in ours and many other houses, she served <hi>Gertruda,</hi> the Maid of <hi>Dimmer de Raet,</hi> who was sick of the Plague, and lay down in the Garden; when as I had administred divers Medecines unto her, and having cut off the Carbuncle, she was then in good health, at which the Servants of <hi>Dimmer de Raet</hi> were very glad; yet I saw this woman very sad, and oftentimes fetching very great sighs, and often to weep: I once between her and my self enquired the cause of her mourning, but at the first time I could get nothing out of her, but at length by many fair words extorted from her, that she would tell the cause of her grief to me, upon this account, that I would swear unto her never to tell any thing of it, nor of the event thereof, which accordingly I did.; then she with tears in her eyes said, I knew well enough that this Maid would not dye but live, but the wife of <hi>Dimmer. de Raet</hi> will cer<g ref="char:EOLhyphen"/>tainly dye, who loveth me very well, and therefore am I so sad.
+<pb n="11" facs="tcp:207760:8"/>I asked her how she could possibly know that, when as she now li<g ref="char:EOLhyphen"/>veth so far off? I saw, said she, upon the floor in his house, at the gate of the great forward chamber, her ghost without a head clo<g ref="char:EOLhyphen"/>thed, and holding the key in her hand, as if she would have o<g ref="char:EOLhyphen"/>pened the door; which sight was very frequently seen by me, and very troublesome to me. But whosoever's ghost I saw without a head, then I presaged her death, which within a few moneths after fell out in this manner: I was glad that I had an opportunity to know whether there were any thing certain in the Doctrine of Spirits, of which there was so much talk. <hi>Dimmerus de Raet,</hi> together with his wife, dwelt at <hi>Utrecht,</hi> whether they fled long before for fear of the Plague; I writ to him again, not to come home before Winter; what came of it? after some weeks his wife was taken ill of the Plague, although there was no Sickness in the House nor Town, and very shortly after died.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>
+                     <hi>SOcrates</hi> testifieth of himself, that at a certain time he had a <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> not seen by him now and then, but was familiar with him all his life, who dehorted him always, exhorted him never. <hi>Plato</hi> leaning upon this rest, who knew that <hi>Socrates</hi> was a saithful man, and would not for the saving of his life lye or do any thing that was not good; he taught by his own experience that there were Ghosts, he confirmed the Doctrine by many such like rea<g ref="char:EOLhyphen"/>sons; after this much hath been said by many of it, some are mor<g ref="char:EOLhyphen"/>tal, some are immortal, some onely evil, some that are good, some weak, others powerful, some sensitive, others not, some that they do couple and breed, others that they have their being out of two of the Elements, some that they are meer species separated from the Object, others are thought to be in the air, some are intelli<g ref="char:EOLhyphen"/>gent; and they have delivered many more of the like Dreams, to<g ref="char:EOLhyphen"/>gether with whom many learned men and Philosophers have blot<g ref="char:EOLhyphen"/>ted much paper to no purpose, of which thing more may be seen
+<pb n="12" facs="tcp:207760:9"/>in <hi>Cardanus de varietate rerum, lib.</hi> 16. <hi>cap.</hi> 93. You may read also the jejune opinion of <hi>Pselli,</hi> who is of the same mind with <hi>Carda<g ref="char:EOLhyphen"/>nus,</hi> who may be seen further of this thing in him <hi>De subtilitate, lib.</hi> 18. and in <hi>Scaliger de subtilitate, Exercitation.</hi> 355. But all seem to be deceived, who would understand the nature of things out of nature by their gatural ingeny; therefore in this case let it suffice in these things, of which we can have no certainty, to believe the Scripture, which as to the form, quantity, substance, actions, &amp;c. which may indeed satisfie us as to these things, wholly writ for our instruction. The sacred Writ tells us, that oftentimes Angels have appeared to holy men, that Prophets have seen Visions, sometimes one, sometimes another, and that all these were done by Divine Power, who is there doth not believe? Is it not therefore wicked, and not so much as decent, for a Christian to enquire of the nature of these Spirits, what their longitude or weight is, how they are im<g ref="char:EOLhyphen"/>pelled to their actions, and made visible, by what means, and which way they descend from the air? That there are certain diabolical delusions, the Scripture doth tell us; thus the Devil appeared to <hi>Eve</hi> in the form of a Serpent, and in the form of <hi>Samuel</hi> to King <hi>Saul,</hi> who told him his misforune.</p>
+               </div>
+            </div>
+            <div n="7" type="history">
+               <pb n="13" facs="tcp:207760:9"/>
+               <head>THE SEVENTH FAMOUS HISTORIE.</head>
+               <p>
+                  <hi>PEtrus De Wildt,</hi> who dwelt in <hi>Heart-Street,</hi> his Wife being taken with the Plague, and had a Swelling in her Groine (which Evil notwithstanding she concealed) Her Husband got the Infection of her: <hi>Egdmundus,</hi> an <hi>English Man,</hi> and a Chyrurgion, was sent for, who gave her the Infusion of <hi>An<g ref="char:EOLhyphen"/>timony</hi> for a Vomit; She Vomited extreamly, and had many Stooles. In the Evening she came to Me: I found them so ill, that they could scarce move or speak: her Puls was so small, that it could scarce be felt; she had great reachings to Vomit, but could not, which much pained her: her Stooles were watery. I told her that her Husband would die, yet ventured to give him a warm Cordial draft; <hi>viz,</hi>
+               </p>
+               <p>
+                  <hi>Treacle, Androm,</hi> 2 <hi>Scruples,</hi>
+               </p>
+               <p>
+                  <hi>Treacle-Water</hi> 1 <hi>Ounce,</hi>
+               </p>
+               <p>
+                  <hi>Cinnamon-VVater, half an Ounce.</hi>
+               </p>
+               <p>Hence his Vomiting ceased: but there was oftentimes faintings; the next night they both died.</p>
+               <div type="annotations">
+                  <pb n="14" facs="tcp:207760:10"/>
+                  <head>Annotations.</head>
+                  <p>
+                     <hi>FOrestus</hi> relateth a Story of a Woman, who was taken with a Swelling of the Plague; That, she lying with her Husband, ha<g ref="char:EOLhyphen"/>ving the Sore on her, he not knowing of it, presently got the In<g ref="char:EOLhyphen"/>fection of her, so that she was wholly freed from the Plague, and her Swelling went away: For her Husband did wipe her poy<g ref="char:EOLhyphen"/>son (as it were) with a Spunge, and seemed to have kept it for him<g ref="char:EOLhyphen"/>self. I believe this commonly comes by many Women, who, ha<g ref="char:EOLhyphen"/>ving the French Pox, give it to their Husbands: thus divers take the Infection.</p>
+               </div>
+            </div>
+            <div n="8" type="history">
+               <pb n="15" facs="tcp:207760:10"/>
+               <head>THE EIGHTH FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>
+                  <hi>CApitaneus Biscot, (April</hi> 26.) In the afternoon began to be ill: about Evening he was in great anguish, and was very restless all the night; the next time I saw him he was pretty strong, and complained of nothing but the Pain at his Heart; for, there was neither Heat, Head-ach, nor Vo<g ref="char:EOLhyphen"/>miting, nor any other evil Symptome: and his Pulse, though quick and weak, yet there was no intermitting. He said, His Heart was as it were in a Press: I gave him this Antidote.</p>
+               <p>
+                  <hi>Theriaca, Androm, Diascordium, Confection de Hiacinthe, Salt of Scordium, of each half a Drachm.</hi>
+               </p>
+               <p>
+                  <hi>Treacle-VVater</hi> 2 <hi>Ounces,</hi>
+               </p>
+               <p>
+                  <hi>Oyl of Vitriol</hi> 11 <hi>Gut.</hi>
+               </p>
+               <p>He Sweated violently, but without any change of the Disease: He oftentimes took a convenient quantity of this Mixture:</p>
+               <pb n="16" facs="tcp:207760:11"/>
+               <p>
+                  <hi>Conserve of red Roses</hi> 1 <hi>Ounce and a half,</hi>
+               </p>
+               <p>
+                  <hi>Treacle Andromedes,</hi> 1 <hi>Dram</hi> s.</p>
+               <p>
+                  <hi>Diascordium</hi> 2 <hi>Drachm.</hi>
+               </p>
+               <p>
+                  <hi>Treacle-VVater</hi> 3 <hi>Ounces.</hi>
+               </p>
+               <p>
+                  <hi>Juyce of Citrons, Cinnamon-water, each</hi> 1 <hi>Ounce.</hi>
+               </p>
+               <p>Let them be mingled, and then be strained; and add 1 <hi>Drachm and</hi> s. of <hi>Diascordium.</hi>
+               </p>
+               <p>About the evening I gave her an Antidote, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Butter-Bur White Thistle, Penny Royal, each</hi> 1 <hi>Drachm</hi> s.</p>
+               <p>
+                  <hi>The Leaves of Carduus Benedictus, Scordii, Roots of Citron</hi> 3 <hi>Dra.</hi>
+               </p>
+               <p>
+                  <hi>Carduus and Citron each</hi> 1 <hi>Drachm.</hi>
+               </p>
+               <p>
+                  <hi>Comm<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n VVater</hi> q. s. <hi>coquantur, according to Art, to</hi> 4 <hi>Ounces.</hi>
+               </p>
+               <p>
+                  <hi>Treacle</hi> 2 <hi>Scruple</hi>
+               </p>
+               <p>
+                  <hi>Extract of Angelico Scruple</hi> 1 s. <hi>or one and a half.</hi>
+               </p>
+               <p>
+                  <hi>Salt of Wormwood</hi> 1 <hi>Scruple.</hi>
+               </p>
+               <p>That night she Sweated a little, without any refreshing; the third day of her disease she took what was prescribed the day be<g ref="char:EOLhyphen"/>fore; In the Morning she took this following Powder, dissolved in the former Mixture, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Of the Oriental Bezoar</hi> 15 <hi>Gr.</hi>
+               </p>
+               <p>
+                  <hi>Pulvis Liberantis</hi> 1 <hi>Scruple.</hi>
+               </p>
+               <p>
+                  <hi>Oriental S<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffron</hi> 3 <hi>Gr.</hi>
+               </p>
+               <p>In the evening there came forth some Purple Spots, and the next night she died.</p>
+               <p>In the whole course of her Sickness there was no Feaverish symptome, neither Drouth, Dryness of Tongue, or Heat, nor a Discoloured Water, nor any of the like; but her Heart was much pained, not by reason of the Putrifaction of the H<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mours, but from the Malignant quality of the Pestilential Poyson, which seemed to have insinuated into the very substance of her Heart: Thus we have observed in many others, those great and constant Paines of the Heart, (beginning with the Sickness) is very ominous, if not abated by the first or second Antidote.</p>
+            </div>
+            <div n="9" type="history">
+               <pb n="17" facs="tcp:207760:11"/>
+               <head>THE NINTH FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>
+                  <hi>CHristopher De Four,</hi> (whose Sign was <hi>Amsterdam,</hi>) upon the seventh of <hi>April,</hi> his Maid had a hard Pestilentiall Sweiling, about the bigness of a Hens Egg, under her right Arme, yet she was not Feaverish, neither did per<g ref="char:EOLhyphen"/>ceive any distemper in any other part of her Body but where the Swelling was; she did her business (as she used to do) and that as chearfully as before, only she could not move her right Arme so freely as she did before: She would take no Medecines: she put a Playster of <hi>Diachulum</hi> upon the Swelling, which presently brought it unto a suppuration, so that it broke, and much Matter run out; and thus was she (without any more trouble) healed.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>SOme do determine, That the Plague is a Pestilential Feaver, and that a Feaver is so essential to the Plague, that there never was, nor ever can be a Plague without a Fever: But now, whether
+<pb n="18" facs="tcp:207760:12"/>the Reciprocation of the Definition would follow, That every Fea<g ref="char:EOLhyphen"/>vor is a pernicious Plague or no, I much doubt; nay, it is absurd so to think: and, besides Reason, Experience teacheth the contrary, for, often times we have a Feaver without any Plague, and often the Plague taketh one without this Feaver; which is most manifest in those, who, being taken sick of the Plague, are dead immediate<g ref="char:EOLhyphen"/>ly; although in some the Heart is so strong, that it is able to send forth the Malignant distemper into a Swelling, or Carbuncle, and that without any Fever at all appearing in them; An Example of which we have in the forecited Story, many Examples of which we have seen during this Plague among us. Thus also <hi>Mercurialis</hi> tel<g ref="char:EOLhyphen"/>leth us (in his Book <hi>De Peste, cap.</hi> 6.) of several, who have had Ri<g ref="char:EOLhyphen"/>sings in their Groins, yea, in their very Privities, both Men and Women, who have broken them themselves, without any further detriment: See more of the Confirmation of this thing in the 1 <hi>Book, Cap.</hi> 12. <hi>Ann.</hi> 2. in my self.</p>
+               </div>
+            </div>
+            <div n="10" type="history">
+               <pb n="19" facs="tcp:207760:12"/>
+               <head>THE TENTH FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>THe Wife of <hi>James Bacrsuelt,</hi> a strong Woman, about thirty years of Age, who being taken Sick of the Plague, had a Carbuncle in her right side, under her spurious Ribbs; she had a Feaver also, which made her very restless and indisposed; she took diverse Antidotes and Sudorificks: Notwith<g ref="char:EOLhyphen"/>standing all these, the Disease continued still at its height, untill the fourth day, then it run extreamly, more then ordinarily they used to do; which, when I knew, I gave her a Sudorifick, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Red Corol prepared,</hi>
+               </p>
+               <p>
+                  <hi>Terra Sigillata, burnt Harts-horn, of each</hi> 1 <hi>Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Diascordium</hi> 1 <hi>Drachm,</hi>
+               </p>
+               <p>
+                  <hi>Treackle-VVater, Vinegar of Red VVine, of each</hi> 1 <hi>ounce,</hi> Mingled for a Draught.</p>
+               <p>Also, I gave order, That she should take some of this Electuary very often in a day, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Species Diatrium Santalorum,</hi> 2 <hi>Scruple,</hi>
+               </p>
+               <pb n="20" facs="tcp:207760:13"/>
+               <p>
+                  <hi>Troches of sealed Earth,</hi> 1 <hi>Scruple</hi> s. <hi>or one and a half.</hi>
+               </p>
+               <p>
+                  <hi>Flower of Brimstone</hi> 1 <hi>Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Conserve of Rosemary-Elowers</hi> 3 <hi>Drachm.</hi>
+               </p>
+               <p>
+                  <hi>Conserve of Red-Roses</hi> 7 <hi>Drachm,</hi>
+               </p>
+               <p>
+                  <hi>Diascordium</hi> 2 <hi>Drachm,</hi> s. <hi>or two and a half.</hi>
+               </p>
+               <p>
+                  <hi>Sirrup of Pomgranates,</hi> q. s. <hi>or as much as sufficeth.</hi>
+               </p>
+               <p>By these two Medecines her Running was somewhat lessened, but was not quite stopped before the fifth day: the Carbuncle, by the laying on of our Poultess, was brought to a Suppuration, and in a short time was quite healed: and the Patient, within a few dayes after, in as good health as she was before.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>IN this Sickness, that which was a good sign, was now a Critical one, to wit, the great running of the Sore: For, this we have often observed, that if, in the beginning it should not be stopped with some astringed Medecines, no remedies afterwards would do any good, when it hath once got a head; for, then the Patients strength decaying by little and little, suddenly dyeth: So that I do not approve of their Councel, who, in the critical day would have helped forwards, by opening Medecines, whereas it is open<g ref="char:EOLhyphen"/>ed too much already: but, of this, see more in my Third Book, <hi>Cap.</hi> 10. <hi>Annotat.</hi> 1.</p>
+               </div>
+            </div>
+            <div n="11" type="history">
+               <pb n="21" facs="tcp:207760:13"/>
+               <head>THE ELEVENTH FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>A Certain Chyrurgion being taken sick of the Plague, and presently removed to a neighbouring Village, called <hi>Lent;</hi> and there was laid in a small close Chamber, suffering no one of his Companions to come nigh unto him: upon the twelfth of <hi>April,</hi> in the afternoon I went to visit him, and found him in a high Feaver, very weak and indisposed; his Tongue was hard, with a Crust over it: I prescribed him this Antidote, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Treackle Andromedis</hi> 2 <hi>Scrup.</hi>
+               </p>
+               <p>
+                  <hi>Diascordium Frac storii, Vinegar of Bezoar, each</hi> 1 <hi>Ounce,</hi>
+               </p>
+               <p>Mingled for an Electuary.</p>
+               <p>He Sweat much, with great ease, and the Swelling in his Groine broke, which I told him would be very suddenly, because of the great pain which he had; the next day he was much better, and the same Sudorifick being administred, the swelling increased some<g ref="char:EOLhyphen"/>thing; then the Patient being foolish (as many Chyrurgions are) I not knowing of it, anointed the Sore with an Oyntment made of <hi>M<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rcury:</hi> upon this Oyntment his Swelling parted, his Feaver was as bad as ever, great listlessness and much Vomiting following, and his strength that night much abated, so that the next day he could
+<pb n="22" facs="tcp:207760:14"/>scarcely move himself, then he confessed to me, That he had an<g ref="char:EOLhyphen"/>nointted himself with the Oyntment of <hi>Mercury,</hi> and hoped his Sore could be cured by it, but now he saw his deadly mistake. I gave one Medecine more, which, when he had took, he Vomited up; hey presently cured his Spots, with which within three dayes he dyed.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>REason, (besides the Experience of the former Story) telleth us, that the use of living Quick-Silver is not <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> for the Curing of a Sore; and <hi>Pareus (lib.</hi> 21. <hi>cap.</hi>
+                     <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>leth the use of <hi>Mercurial</hi> Anointings, e<gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>son of its Coldness, it seemes to drive o<gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, as we have largely declared, <hi>Lib.</hi> 3. <hi>Cap.</hi> 12. <hi>Annot.</hi> 16.</p>
+               </div>
+            </div>
+            <div n="12" type="history">
+               <pb n="23" facs="tcp:207760:14"/>
+               <head>THE TVVELFTH <hi>FAMOUS</hi> HISTORY</head>
+               <p>
+                  <hi>RUdolphus De Swaert,</hi> a Knight, of the Company of <hi>Wilmoth,</hi> a Valiant Man, and somewhat strong, perceived that he was taken with the Plague; who came to me, and asked my Counsel, saying, That he had this Spot with a little Trembling, and, that he was tormented with a great nauseousness and indisposition; and that he felt a great Pain in his Thigh, but perceived no Swelling: I prescribed him this Antidote, and bid him presently go to Bed, and being well covered, to Sweat lustily <hi>Viz,</hi>
+               </p>
+               <p>
+                  <hi>Treacle,</hi> 4 <hi>Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Diascordium, Salt of VVormwood, of each Drachm</hi> s.</p>
+               <p>
+                  <hi>Treacle VVater, the best VVhite-VVine Vinegar, each Ounce</hi> 1 s. Made into an Electuary.</p>
+               <p>The next day he returned to me well; and said, That for six or
+<pb n="24" facs="tcp:207760:15"/>seven houres he Sweated mightily, and in that Sweat his Pain went away, his Swelling abated, and he perfectly Cured.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>IN every Disease, and especially in the Sickness, that Verse is ve<g ref="char:EOLhyphen"/>rified,
+<q>
+                        <l>
+                           <hi>Principiis obsta: sero Medicina parata</hi>
+                        </l>
+                        <l>
+                           <hi>Cum malo per longas invaluere modos.</hi>
+                        </l>
+                     </q>
+                  </p>
+                  <p>Englished thus:
+<q>
+                        <l>
+                           <hi>Come at the first: a Medecine late prepar'd</hi>
+                        </l>
+                        <l>
+                           <hi>Strengthens the Disease, whose Cure is Marr'd.</hi>
+                        </l>
+                     </q>
+                  </p>
+                  <p>For, the Disease by long delayes getteth ground, and one Anti<g ref="char:EOLhyphen"/>dote, at the beginning of the Disease, doth more good then ten in the third or fourth day, when it hath got a head, and is not so easily, nor so certainly cured.</p>
+               </div>
+            </div>
+            <div n="13" type="history">
+               <pb n="25" facs="tcp:207760:15"/>
+               <head>THE THIRTEENTH FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>MR. <hi>Colbury,</hi> (a Noble <hi>English</hi> Man, who willingly ac<g ref="char:EOLhyphen"/>companyed a Troop, being out of our Tents, the For<g ref="char:EOLhyphen"/>tification of <hi>Schenkius</hi> being besieged) upon the four<g ref="char:EOLhyphen"/>teenth of <hi>April,</hi> entering into the City, said, That he smelt a filthy stink, which was very nauseous unto him; at which his Head began to ake: the next day (when he awoke) he was very sick, perceiving a great stretching in the Arteries behind his eares; he, (fearing the Plague) betimes in the Morning took two Pills of <hi>Ruffus,</hi> (for he alwayes carryed some about him) within six houres after he had half a dozen stooles, so that the Pain behind his Eares abated; yet his Stomach was so bad that he could not eat any Din<g ref="char:EOLhyphen"/>ner: About the evening he had three or four stooles more, which was attended with great anxiety of Heart, and weakness of Body: the night following he had a great Looseness, with much Pain:
+<pb n="26" facs="tcp:207760:16"/>on the sixteenth of <hi>April,</hi> in the morning, he asked my counsel: I perceiving that his Excrements was very unctious and stinking, be<g ref="char:EOLhyphen"/>ing Costive himself; he had a great Feaver: I gave him this Sudo<g ref="char:EOLhyphen"/>rifick at six of the Clock in the morning, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Terra Sigillata, Bole Armenick, Red Corol prepared, Harts-horn burnt, each</hi> 1 <hi>Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Extract of Rue,</hi> 1 <hi>Scruple</hi> s. <hi>or one and a half,</hi>
+               </p>
+               <p>
+                  <hi>Salt of Scordium</hi> 1 <hi>Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Treacle Androm, Diascordium, each</hi> 2 <hi>Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Treacle water</hi> 2 <hi>Ounces,</hi>
+               </p>
+               <p>Made into a Draught.</p>
+               <p>By this Medecine he Sweat three or four houres, and his loose<g ref="char:EOLhyphen"/>ness stayed untill noon; presently after none stayed, but soon came again: and he often took a portion of this Electuary, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Troches of Terra Sigillata, Flower of Brimstone, burnt Harts-horn, each</hi> 1 <hi>Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Sanders,</hi> 1 <hi>Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Diascordium Fracastorium, Conserve of Red Roses, Myva Cidonio<g ref="char:EOLhyphen"/>rum, each</hi> 4 <hi>Drachm,</hi>
+               </p>
+               <p>
+                  <hi>Sirrup of Pemgranates, as much as sufficeth.</hi>
+               </p>
+               <p>To help his Thirst, I gave him this Juleb, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Cardus Benedictus Lib.</hi> 1,</p>
+               <p>
+                  <hi>Scabius water, Lib.</hi> s.</p>
+               <p>
+                  <hi>Conserve of Red Roses,</hi> 1 <hi>Ounce</hi> s. <hi>or one and a half,</hi>
+               </p>
+               <p>
+                  <hi>Juice of Sloes,</hi> 2 <hi>Drachm.</hi>
+               </p>
+               <p>
+                  <hi>Oyl of Vitriol, as much as sufficeth.</hi>
+               </p>
+               <p>Mingled and Strained, given for a Juleb.</p>
+               <p>But, the Looseness was no whit stayed by all these. <hi>April</hi> the se<g ref="char:EOLhyphen"/>venteenth I gave him a Sudorifick, thus prepared: <hi>viz,</hi>
+               </p>
+               <p>
+                  <hi>Rootes of Tormentile, Ounce</hi> s. <hi>or an ounce and a half,</hi>
+               </p>
+               <p>
+                  <hi>Some Sanders scraped,</hi> 1 <hi>Drachm</hi> s, <hi>or one and a half,</hi>
+               </p>
+               <p>
+                  <hi>Rootes of Pomgranates,</hi> 1 <hi>Drachm,</hi>
+               </p>
+               <p>
+                  <hi>Green Burnet Saxifrage, half a Pugil,</hi>
+               </p>
+               <p>
+                  <hi>Rue, Cardus Benedictus, dryed Scordium, each one Pugil,</hi>
+               </p>
+               <p>
+                  <hi>Carduus Seed, and Plantane, each</hi> 1 <hi>Drachm,</hi>
+               </p>
+               <pb n="27" facs="tcp:207760:16"/>
+               <p>
+                  <hi>Flowers of VVilde Pomgrannates, Red Roses, each</hi> 1 <hi>Drachm,</hi>
+               </p>
+               <p>
+                  <hi>According to Art, make a Decoction to</hi> 1. <hi>Lib.</hi>
+               </p>
+               <p>
+                  <hi>Take three Ounces of this Decoction,</hi>
+               </p>
+               <p>
+                  <hi>Troches of Terra Sigillata, Scruple</hi> s.</p>
+               <p>
+                  <hi>Burnt Harts-Horn,</hi> 1 <hi>Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Treacle,</hi> 1 <hi>Drachm,</hi>
+               </p>
+               <p>
+                  <hi>Diascordium, Drachm</hi> s.</p>
+               <p>After this he Sweat much, and the Pain behind his Eares he again perceived, but his looseness somewhat abated, which, soon after the Sweat was as great as ever: afterwards pure blood was voided, hence being very weak he died.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>
+                     <hi>HIeronimus Mercularis,</hi> and <hi>John Maynard,</hi> by <hi>Avicenna</hi> Au<g ref="char:EOLhyphen"/>thority, (<hi>lib.</hi> 1.4. <hi>Tract.</hi> 4. <hi>cap.</hi> 4.) Determined, that the Cure of the Plague must be begun with a Purge; and That Opinion is defended by <hi>Zachutus Lusitannus,</hi> which Counsel I think not fit to be received, which is contrary to Reason and Experience: because, those things which do disturb Na<g ref="char:EOLhyphen"/>tures Motions are pernicious: Experience teaches us, that Purgings are in no wise to be Administred; of which we have spoken more <hi>lib.</hi> 3. <hi>cap.</hi> 4. <hi>Annot.</hi> 1, 2, 3. A small quantity of Pills of <hi>Ruffus</hi> made him so bad, and disturbed him so much, that no way for the vent of the Poyson could be found.</p>
+               </div>
+            </div>
+            <div n="14" type="history">
+               <pb n="28" facs="tcp:207760:17"/>
+               <head>THE FOURTEENTH FAMOUS HISTORIE.</head>
+               <p>THe Maid of Mr. <hi>Chaek</hi> (for some weaks) was very ill, and complained of the weakness of her Heart, at length being taken with great weakness often fainted: at last followed such a violent Vomit, that, sounding away, she lay as if she were a dying: when I was called unto her, and found her Pulse so weak, and so unequal, I gave her a Sudorifick: <hi>viz,</hi>
+               </p>
+               <p>
+                  <hi>Burnt Harts-Horn,</hi> 1 <hi>Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Salt of VVormwood,</hi> 1 <hi>Scruple</hi> s. <hi>or one and a half,</hi>
+               </p>
+               <p>
+                  <hi>Treacle,</hi> 1 <hi>Drachm,</hi>
+               </p>
+               <p>
+                  <hi>Treacle-VVater,</hi> 1 <hi>Ounce</hi> s. <hi>or one and a half,</hi>
+               </p>
+               <p>
+                  <hi>Oyl of Vitriol, Gut.</hi> 9.</p>
+               <p>This being taken, she perceived great pain in her Stomach, and after a quarter of an hour she brought up all her Medecine, after which she recovered.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>VVE were deceived in this Patient, whom we judged to have the Plague, who by the taking of an Antidote <hi>Lumbricis,</hi> was healed: the Air could not Infect her but in the Intestines.</p>
+               </div>
+            </div>
+            <div n="15" type="history">
+               <pb n="29" facs="tcp:207760:17"/>
+               <head>THE FIFTEENTH <hi>FAMOUS</hi> HISTORY</head>
+               <p>I Was called to one who had the Sickness, together with one who was a Chyrurgion: We found him to have four Carbun<g ref="char:EOLhyphen"/>buncles, and, with very great Symptomes, Indisposition, and Restlessness: great lowness of Spirit, with often Faintings, and violent Vomitings, which continued for some houres, a presage of Death: yet we gave an Antidote, which, when he had Vo<g ref="char:EOLhyphen"/>mited, at last dyed. I had a Discourse with the Chyrurgion con<g ref="char:EOLhyphen"/>cerning the cause of this Vomiting, and, amongst others I deter<g ref="char:EOLhyphen"/>mined, That it was from the Poysonous Nature of the Coat of the Belly; and, the upper orifice of the Belly being fixed, he said, That this came from the Carbuncles in the Coates of his Heart, and, that he knew it by Experience: For, (that I might know certainly the cause of his Vomiting) he told me, That he was at the Dissection of a Man, and, in the upper Ventri<g ref="char:EOLhyphen"/>cle found a place somewhat large, about the bigness of the top of ones Thumb, which was black, like unto a Carbuncle, which blackness going through the Tunicles of the belly: and, if I had had a minde, he would have showen me it in another Sick Person: But, we had no minde to provoke a Wasp, we had rather believe it, then see it.</p>
+               <div type="annotations">
+                  <pb n="30" facs="tcp:207760:18"/>
+                  <head>Annotations.</head>
+                  <p>IT is very likely that a Carbuncle sometimes may be in the Tuni<g ref="char:EOLhyphen"/>cles of the Belly, no less than in the other Bowels, and it produ<g ref="char:EOLhyphen"/>ceth a deadly Vomiting: but yet I do not say that the Pestilential Vomiting hath this for its cause: which followeth hence, because many escape with Vomiting only, which could not be, if this Vo<g ref="char:EOLhyphen"/>miting proceeded from no other cause than this. Let it be what it will, I know no Physician to have taken notice of these Carbuncles, only of late <hi>Johannes Van Helmont</hi> Writeth, that he observed this himself in a Body he Dissected: and found the Stomack to be co<g ref="char:EOLhyphen"/>vered with a treble Crust, never observed before by any. But, few will believe <hi>Rondeletius,</hi> who saith, That a Dead Carcase is not infe<g ref="char:EOLhyphen"/>ctious.</p>
+               </div>
+            </div>
+            <div n="16" type="history">
+               <pb n="31" facs="tcp:207760:18"/>
+               <head>THE SIXTEENTH FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>E <hi>Eward Grien,</hi> an <hi>English</hi> Man, and <hi>Melchior Rowert,</hi> a <hi>German,</hi> both Valiant Men, strong and lusty: in <hi>May,</hi> for preven<g ref="char:EOLhyphen"/>tion and preservation, they were let Blood in the Arm, and we took out a Pint of Blood: soon after they were let blood, they were taken of a sudden with an unusual Trembling and Drowsiness, doubting much whether it were not the Plague or no: but, that they might the better put this imagination out of their mind, one drank two pound of <hi>VVormwood-VVine,</hi> the other took two ounces of the Spirit of <hi>Juniper-VVine:</hi> after which they went out together to walk, coming whom about Noon, they could eat no Dinner, (being as cold as in the midst of Winter) they went to Bed, and being well covered, slept very soundly for some houres: at length, arter they awoke, they were both very ill, both being much pained, one Vomiting, and the other complained of the swimming of his head, and the great pain in his head: I was desi<g ref="char:EOLhyphen"/>red to see them, perceiving they both had strong Feavers, with a small, quick, unequal Pulse, very Thirsty, and as weak as if they had lain sick a long time: They had took of <hi>Treacle</hi> 1 <hi>Drachm, VVhite-VVine Vinegar</hi> 2 <hi>Ounces, Juniper Oyl half a Scruple,</hi> which
+<pb n="32" facs="tcp:207760:19"/>Sweated them, but no comfort: one of them had two Carbuncles in his Breast and in his Hand: at evening so weak, that they neither could, nor would take any thing: Drank nothing but Water. On the third day in the afternoon <hi>Edward</hi> died: the other lived to the fifth day, and died at midnight.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>THere was a great Error committed by the Chyrurgion in this Pestilence, when, for a little Money, commanded letting of blood: they said, It was the best Preservative against the Infection, and thus were they the cause of many a ones Disease, and Death. I scarce ever knew any one let Blood for prevention, but miscarried: and, those who took the Infection, after Blood-letting, were worse than those who took it, and were not let blood before.</p>
+               </div>
+            </div>
+            <div n="17" type="history">
+               <pb n="33" facs="tcp:207760:19"/>
+               <head>THE SEVENTEENTH FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>VVHen <hi>Natharius Stuaet,</hi> a Scrivener, living near to the <hi>Strait Gate,</hi> and next dore to the Dancing-Schoole, was sick of the Plague, with a Loose<g ref="char:EOLhyphen"/>ness: I was sent for to see him, as soon as I came into his Chamber, I presently smelt a mighty stink, with which I was much moved: after a short time that I was with him, going out of his House again, forthwith I was very sick, much pained at Heart, so that I questioned not but that I had the Sickness: where<g ref="char:EOLhyphen"/>fore, (laying aside all business) I went home, and took six Pipes of <hi>Tobacco,</hi> by which time all the former symptomes were gone, and I was as well as before: then going abroad (to see my Patients) I took one Drachm of <hi>Treacle,</hi> and then was presently well.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>I Had this often, during this Plague: So that, as soon as I had the Infection, I fell to the smoaking of <hi>Tobacco:</hi> but, on a time I visited a Baker and his Wife, who lay ill of a Pestilential Looseness,
+<pb n="34" facs="tcp:207760:20"/>and I was much altered by that great stink, then, as I used to do, I went to the taking of <hi>Tobacco:</hi> I was not so soon well, but, having taken a Pipe or two of <hi>Tobacco,</hi> I was overwhelmed with so much sleep and pain, that (whether I would or no) taking an Antidote went to sleep, and then being wakened to visit some sick Men, who stayed for me, by reason of my giddiness I could scarce raise my self, and Vomited with great pain: at length I arose, leaning upon my servants shoulder, I came to the Fire, then I took <hi>Tobacco:</hi> when I had taken two or three Pipes, the giddiness of my Head vanished, but troubled a little at heart: then taking heart, fearing nothing, took half a Drachm of <hi>Treacle,</hi> and a good Draught of <hi>Burnt VVine,</hi> with some <hi>Cinnam<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n</hi> and <hi>Nutmeg,</hi> and then I went into the Air, and, as I was walking sweat very much, and so I continued till ten of the Clock at night, and then (without any pain at all) returned whom as well as before, and was hungry enough at my Supper, at the close of which I took a Pipe of <hi>Tobacco:</hi> I hold this as a con<g ref="char:EOLhyphen"/>tinual remedy, I took it in the beginning of the Plague, and did me much good, and this hath been observed by many. They relate also, that in <hi>Londons</hi> Great <hi>Plague,</hi> no Tobaconist was Infected: but here it was not so, for many of them were infected: For, one <hi>En<g ref="char:EOLhyphen"/>glish</hi> Man, who had many Children and Servants, yet no one had it but a Maid, and she soon recovered.</p>
+               </div>
+            </div>
+            <div n="18" type="history">
+               <pb n="35" facs="tcp:207760:20"/>
+               <head>THE EIGHTEENTH FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>
+                  <hi>OTto de Linett,</hi> a strong man, had a Carbuncle in his arm, and great pain in one of his thighs, with a drowsness and pain of head: by the Chirurgions advice he took</p>
+               <p>
+                  <hi>Treacle,</hi> 1 <hi>Drach.</hi>
+               </p>
+               <p>
+                  <hi>Vinegar,</hi> 1 <hi>Ounce.</hi>
+               </p>
+               <p>
+                  <hi>Oil of Juniper gut. xii.</hi>
+               </p>
+               <p>And thus covered warm, sweated a little; after some hours being awakened, he complained of the great pain of his head: I being called to him the second day, then I gave him another Antidote, by which he sweat much, but the pain of his head no whit aba<g ref="char:EOLhyphen"/>ted: On the third day he sneezed often without any intermission, which I could not hinder by warm milk put into his nostrils, nei<g ref="char:EOLhyphen"/>ther by any other means: having sneezed 100. times, died.</p>
+               <div type="annotations">
+                  <pb n="36" facs="tcp:207760:21"/>
+                  <head>Annotations.</head>
+                  <p>VVE have observed these mortal sneezings in several other Plagues; although in other Diseases sneezing sheweth a strong Brain, but in the Plague generally mortal: and sheweth that the venom of the Disease is fixed in the Membranes of the Brains, and that they are mortified, when that cannot be cured but by sneezing, no more than a Carbuncle can by vomiting and hic<g ref="char:EOLhyphen"/>cough. <hi>Cardanus</hi> observeth also, That Sneezing, in a Plague, hath been Mortal.</p>
+               </div>
+            </div>
+            <div n="19" type="history">
+               <pb n="37" facs="tcp:207760:21"/>
+               <head>THE NINETEENTH FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>MY Cousen <hi>Johannes de Goldt,</hi> after he had dwelt in an Ho<g ref="char:EOLhyphen"/>spital, being a strong young Man, perceiving a Pesti<g ref="char:EOLhyphen"/>lential Rising in his Groine, he concealed it; and when (as he was tormented with a great pain in his head, he took some <hi>Cephalick</hi> Pills, a Drachm of <hi>Pillule Cochiae,</hi>) he took nine Pills it wrought with him, giving him some ease, but afterwards a very great Looseness: his Swelling struck in, and he was very weak for four and twenty houres, but I could by no meanes stay his Scowring, the third day he died.</p>
+               <div type="annotations">
+                  <pb n="38" facs="tcp:207760:22"/>
+                  <head>Annotations.</head>
+                  <p>NOt onely this Example, but many others, tell us, that Purging Medecines are Mortal in the Plague; It is strange, that <hi>Aver<g ref="char:EOLhyphen"/>roes</hi> should commend such Medecines as <hi>Pillule Cochiae,</hi> which Pills, how profitable they are in the Plague, it appeares from the former History; but, we never knew that these Pills, or any other Purges, untill (after the seventh day of the Disease) they were given, with success.</p>
+               </div>
+            </div>
+            <div n="20" type="history">
+               <pb n="39" facs="tcp:207760:22"/>
+               <head>THE TVVENTIETH FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>
+                  <hi>STephanus,</hi> a Scrivener, who lived behind St. <hi>Johns</hi> Church, he being very angry, (I know not for what) went home, and was took with a Trembling, and presently after with a burn<g ref="char:EOLhyphen"/>ing Feaver, with great Thirst, Restlessness and Pain; and a little while after his Tongue was black, and he had two Carbuncles in his Breast: I gave him diverse Antidotes, but he kept very few of them, but Vomited them up again: but, all these profiting ve<g ref="char:EOLhyphen"/>ry little, and his strength being brought very low, at the end of the second day he died.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>ANger is (as we have showen before) very pernicious, and very much disposeth our Bodies to the Plague: and those who have fallen sick, upon an Angry Account, most commonly have worse Symptomes then others; as violent Feavers, Head-ach, <hi>&amp;c.</hi> which others have not had.</p>
+               </div>
+            </div>
+            <div n="21" type="history">
+               <pb n="44" facs="tcp:207760:23"/>
+               <head>THE XXI. FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>
+                  <hi>MArgaret de Tienen,</hi> who lay down in the Garden of Mr. <hi>Haeften,</hi> perceiving that she had the Plague, drank her own Urine twice: the second day, by my Counsel, she took a Sudorifick, after that she had Sweated very much there appeared a Rising behind her right Ear, very big, and soft; which in four and twenty houres came unto that bigness, that it co<g ref="char:EOLhyphen"/>vered the whole side of her neck: the fourth day the Spots appear<g ref="char:EOLhyphen"/>ed, and then she died.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>THose, who have any hard Swellings in their Neck, among the <hi>Muscles,</hi> if they increase but flowly, they may be cured, but if their Swellings are White and hard, increasing very much, and that in a very short time, not one in five thousand is ever cured.</p>
+               </div>
+            </div>
+            <div n="22" type="history">
+               <pb n="41" facs="tcp:207760:23"/>
+               <head>THE XXII. FAMOUS HISTORIE.</head>
+               <p>
+                  <hi>PEter Byis,</hi> a strong young Man, (<hi>April</hi> the seventh) was ta<g ref="char:EOLhyphen"/>ken sick of the Plague, with a gentle Feaver; he had a swel<g ref="char:EOLhyphen"/>ling under one of his Armes, together with great pain of heart: I gave him two or three Medecines, but all did no good: the Feaver (for two or three dayes) increased very much; he became so weak, and so very sick with the Medecines, that after the second day I could scarce Administer any more: Upon the tenth of <hi>April</hi> he was very much pained at Heart, and in the after<g ref="char:EOLhyphen"/>noon died.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>THe Pestilential Poyson having got such deep root in his Heart, and his inward heat being decayed, was mortal to him; which brought a Putrefaction of the Humors, and a Feaver, but it was so small, that it was not dangerous at all.</p>
+               </div>
+            </div>
+            <div n="23" type="history">
+               <pb n="42" facs="tcp:207760:24"/>
+               <head>THE XXIII. FAMOUS HISTORY</head>
+               <p>
+                  <hi>ANn,</hi> the Maid of <hi>Wilhslmus,</hi> being strong, and very well, in <hi>May</hi> (as she used to do) she applyed three or four <hi>Cupping Glasses</hi> to her Feet, with <hi>Scarification,</hi> which took seven or eight ounces of blood from her; afterwards she fell a shivering, and within a few houres she was so drowsie that she fell asleep: when she awakened she found a pain at her Heart; after a while she fell a Vomiting violently: I found her in a Fea<g ref="char:EOLhyphen"/>ver, her Pulse was weak, quick, and uneven; her Urine was as if she ailed nothing: About noon I gave her this Antidote, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Treacle, Androm, Discordium, Pracastorii, of each</hi> 2 <hi>Scruples,</hi>
+               </p>
+               <p>
+                  <hi>Diascordium one Scruple and an half,</hi>
+               </p>
+               <p>
+                  <hi>Treacle water one ounce and a half,</hi>
+               </p>
+               <p>
+                  <hi>Juice of Citrons half an ounce,</hi>
+               </p>
+               <p>Mix them.</p>
+               <p>After she had taken it she sweat much; and found a pain in her Groine, but no Swelling: as for the pain at her heart it abated not: presently after her Sweating she found her self as shiverish as before; therefore I gave her, (within three houres) the same Su<g ref="char:EOLhyphen"/>dorifick as before; with which, having sweat the following night,
+<pb n="43" facs="tcp:207760:24"/>the next morning seemed to be somewhat better, and then she had a hard Swelling appeared in her right Groine; That day she would take no Medecine at all, and thought that she had wanted my Coun<g ref="char:EOLhyphen"/>sels no more: She did eat a little boyled Milk with Bread, and by the Counsel of her Landlady, laid a <hi>Cabage Leafe</hi> unto the Swelling, anointed with <hi>Rape Oyl;</hi> on the third day her Feaver returned a<g ref="char:EOLhyphen"/>gain with as much violence as before, (which was not wholly gone the second day, but somewhat lesser) with a great pain in her head, vehement Thirst, and violent Vomiting: but the Swelling in her Groine fell quite: then she came unto me again, I gave her two Sudorificks, which she presently brought up again: I prescribed her some Cordial Julebs, and some other things, at length I gave her four Spoonfulls of this Mixtures, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Conserve of Red Roses</hi> 6 <hi>Drachms,</hi>
+               </p>
+               <p>
+                  <hi>Diascordium Fracastorii</hi> 2 <hi>Drachms,</hi>
+               </p>
+               <p>
+                  <hi>Treacle VVater.</hi> 3 <hi>Ounces,</hi>
+               </p>
+               <p>
+                  <hi>Juice of Lemmons, Cimnamon VVater of each one ounce.</hi>
+               </p>
+               <p>Let them be mingled, and stand for one hour, afterwards let them be strained.</p>
+               <p>I also prescribed them to lay on a Playster of <hi>Treacle</hi> of <hi>Andro<g ref="char:EOLhyphen"/>medes,</hi> spread upon <hi>London Paper;</hi> and then being warmed at the Fire, to be laid upon her belly, which presently staid her violent Vomiting: at night also I gave her this Sudorifick, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Salt of VVormwood, and of Diascordium, of each one Scruple.</hi>
+               </p>
+               <p>
+                  <hi>Extract of Angelico halfe a drachm,</hi>
+               </p>
+               <p>
+                  <hi>Treacle VVater</hi> 2 <hi>Ounces,</hi>
+               </p>
+               <p>
+                  <hi>Oyl of Vitriol,</hi> 14 <hi>Drops.</hi>
+               </p>
+               <p>Mingle them, and make them into a Portion.</p>
+               <p>This made her Sweat gently, and her Feaver began to be abated, which the next day was as great as before, and continued with vio<g ref="char:EOLhyphen"/>lence untill evening, at which time that Distemper continued longer than usualy: on the next day the feaver abated, but she was very weak; she drank small Ale, in which we put some drops of Oyle of <hi>Vitriol</hi> to suppress the <hi>Termes;</hi> I gave this Poultis, and I appointed her to take some of this Electuary often in a day, <hi>viz.</hi>
+               </p>
+               <pb n="43" facs="tcp:207760:25"/>
+               <p>
+                  <hi>Red Cerol prepared, of Burnt Harts-Horn, of Terra Sigillata, of Ori<g ref="char:EOLhyphen"/>ental Bezoar Stone, of each half a Scruple.</hi>
+               </p>
+               <p>
+                  <hi>Diascordium Fracastorium one Scruple, with Syrrop of sower Pomgra<g ref="char:EOLhyphen"/>nates.</hi>
+               </p>
+               <p>Make of them a Poultis.</p>
+               <p>
+                  <hi>Species of Diatrium Santalorum</hi> 2 <hi>Scruples,</hi>
+               </p>
+               <p>
+                  <hi>Red Corol, Terra Sigillata, Harts-Horn burnt, of each one Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Diascordium Fracastorium</hi> 3 <hi>Drachms,</hi>
+               </p>
+               <p>
+                  <hi>Conserve of Red Roses</hi> 5 <hi>Drachms,</hi>
+               </p>
+               <p>
+                  <hi>Juice of Sloes one Drachm and an half,</hi>
+               </p>
+               <p>
+                  <hi>Sirrup of sower Pomgranates, as much as needs.</hi>
+               </p>
+               <p>The sixth day her <hi>Termes</hi> increasing, and she growing weaker, she died in the evening.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>IN this Plague it was Mortal to take away Blood, even from those who were well; so that the very proposing to any, That they should be let Blood, struck (as it were) an horrour into all their Members: for, what time soever (and though the Blood was ta<g ref="char:EOLhyphen"/>ken never so cautiously) yea, in the most healthful Bodies, the Pe<g ref="char:EOLhyphen"/>stilence most commonly followed it: because (that the Veines be<g ref="char:EOLhyphen"/>ing open) there is a greater advantage for any infection to enter, and corrupt the Humors.</p>
+               </div>
+            </div>
+            <div n="24" type="history">
+               <pb n="45" facs="tcp:207760:25"/>
+               <head>THE XXIV. FAMOUS HISTORY</head>
+               <p>A Strong Countrey Man, perceiving a great pain in his Head, with his Heart very much pained also, he asked for a Medecine of the Chyrurgion, that might Purge him lusti<g ref="char:EOLhyphen"/>ly; who gave him a Draught of burnt wine, with <hi>Anti<g ref="char:EOLhyphen"/>mony,</hi> which made him vomit violently, that he voided many peccant Humors; and by it he was so weakened, that they thought he would die presently; wherefore they sent for me, that I should see him: I found the Sick Man wearied greavously with strivings to Vomit; wherefore I commanded those of the House to warm a Pint of <hi>White-VVine,</hi> and that they should put in some Powder of <hi>Cinnamon,</hi> and <hi>Nutmeg,</hi> and that they should give it him warm, and (he being covered warm) to let him sleep; this being done, his Vomiting stay<g ref="char:EOLhyphen"/>ed, and he slept almost all that night.</p>
+               <pb n="46" facs="tcp:207760:26"/>
+               <p> The next Day he slept well, and when he awoke he was very well; being withal so very hungry, that he could not be satisfied with two Meales together.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>THose who had Vomitings very often, seldome escaped: nay, scarce one in a hundred escaped as this Man did, which was, because he was very strong, and of a healthful Constitution.</p>
+               </div>
+            </div>
+            <div n="25" type="history">
+               <pb n="47" facs="tcp:207760:26"/>
+               <head>THE XXV. FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>
+                  <hi>ANntonius Knuit</hi> a <hi>Leather-seller,</hi> dwelling in the Market, who was somewhat strong (<hi>May</hi> 29.) about evening began to be ill; and, feeling a pain under his Arme, sent for me: his Pulse was uneven and swift; and, considering it was at the beginning of the Disease, his strength was but little, and his heat but little more than used to be; his Urine also was as at other times, he was somewhat appressed, and drowsy, inclining to Vomit, but did not: I gave him this Antidote, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Two Scruples of Treacle,</hi>
+               </p>
+               <p>
+                  <hi>Half a Drachm of Diascordium,</hi>
+               </p>
+               <p>
+                  <hi>Salt of VVormwood, the Eyes of Crabs Prepared, of each one Scruple,</hi>
+               </p>
+               <p>
+                  <hi>Treacle water an ounce and an half,</hi>
+               </p>
+               <p>
+                  <hi>Juice of Citrons one ounce,</hi>
+               </p>
+               <p>Mix them all.</p>
+               <p>After he had taken this he Sweat exceedingly, and found ease, and an hard great Swelling arose under his Arme; I laid on twice a day this Poultiss, <hi>viz.</hi>
+               </p>
+               <pb n="48" facs="tcp:207760:27"/>
+               <p>
+                  <hi>Rootes of VVhite Lillies</hi> 2 <hi>ounces,</hi>
+               </p>
+               <p>
+                  <hi>Green Rootes of Elecompane one ounce,</hi>
+               </p>
+               <p>
+                  <hi>Mallones, Marchmallowes, Camomil Flowers, of each one Pugil,</hi>
+               </p>
+               <p>
+                  <hi>And nine Figs, as much fair water as sufficeth, boyle them according to Art, and let them be baked; adding Leaven, of Lint-Seed, Meale, of each one ounce,</hi>
+               </p>
+               <p>
+                  <hi>Doves Dung one ounce and an half,</hi>
+               </p>
+               <p>
+                  <hi>Honey, and Hogs-greece, of each six Dracbms.</hi>
+               </p>
+               <p>Make all into a Poultis.</p>
+               <p>
+                  <hi>May</hi> 31. (In the Morning) he drank of this Apozem, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Rootes of Angelico, Butterbur, of each six Drachms,</hi>
+               </p>
+               <p>
+                  <hi>Tormentil Rootes, of the Pills of dryed Citrons, of each half an ounce,</hi>
+               </p>
+               <p>
+                  <hi>Of the Rootes of Ostrutii the quantity of</hi> 2 <hi>Drachms,</hi>
+               </p>
+               <p>
+                  <hi>Scabius, Dandelion, Balme, Scordium, of each one Pugil,</hi>
+               </p>
+               <p>
+                  <hi>Cardus Benedictus one Pugil and an half,</hi>
+               </p>
+               <p>
+                  <hi>Green Rue half a Pugil,</hi>
+               </p>
+               <p>
+                  <hi>Cardus Benedictus Seeds, and of the greater cold Seeds, of each one Drachm and an hafe,</hi>
+               </p>
+               <p>
+                  <hi>Red Fitches one ounce and an half,</hi>
+               </p>
+               <p>
+                  <hi>As much Fair Water as sufficeth, boyle them to two pounds, strain them, and put to them Syrrop of Scordium, and of juice of Citrons each one ounce.</hi>
+               </p>
+               <p>In the Evening he took this, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Treacle, Androm. Diascordium Fracastorium, Salt of Wormwood, of each half a Drachm,</hi>
+               </p>
+               <p>
+                  <hi>Treacle VVater, Vinegar, of Bezoar, of each one ounce.</hi>
+               </p>
+               <p>He took it, and Sweat, and was much refreshed.</p>
+               <p>
+                  <hi>June</hi> 1. He nauceated all things, and was ready to Vomit: to prevent it, I gave him this, to Drink two or three spoonfulls a day, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Conserve of Red Roses</hi> 6 <hi>Drachms.</hi>
+               </p>
+               <p>
+                  <hi>Taeacle of Androm</hi> 2 <hi>Scruples</hi>
+               </p>
+               <p>
+                  <hi>Diascordium</hi> 1 <hi>Drachm and an half</hi>
+               </p>
+               <pb n="49" facs="tcp:207760:27"/>
+               <p>
+                  <hi>Treacle water</hi> 3 <hi>ounces</hi>
+               </p>
+               <p>
+                  <hi>Roses half an ounce</hi>
+               </p>
+               <p>
+                  <hi>Cinnamon</hi> 6 <hi>Drachms</hi>
+               </p>
+               <p>
+                  <hi>Juice of Citrons one ounce,</hi>
+               </p>
+               <p>Mix them.</p>
+               <p>Let them stand two houres, and then strain them, and add</p>
+               <p>
+                  <hi>Confection of Hyacinth</hi> 2 <hi>Scruples</hi>
+               </p>
+               <p>
+                  <hi>Of Alkermis</hi> 2 <hi>Scruples</hi>
+               </p>
+               <p>Mingle them,</p>
+               <p>He drank twice of this Apozem.</p>
+               <p>In the evening I gave him this Bolus, dissolved in the former mixture,</p>
+               <p>Take <hi>Mithridate Dimoc. one Scruple and an half</hi>
+               </p>
+               <p>
+                  <hi>Diascordium one Scruple</hi>
+               </p>
+               <p>
+                  <hi>Salt of Wormwood, Confection of Hyacinth, of each half a Scruple</hi>
+               </p>
+               <p>
+                  <hi>Oyl of Vitriol</hi> 4 <hi>Drops,</hi>
+               </p>
+               <p>Mix it, and make it into a Bolus.</p>
+               <p>About the evening he (of himself) Sweat very well: his Swelling under his Arm increased, and by this Critical Sweat his Disease was overcome, his oppression at heart, head-ach, and other Symp<g ref="char:EOLhyphen"/>tomes ceased, and afterward his Swelling under his Arm went a<g ref="char:EOLhyphen"/>way by little and little without breaking: all this while he went not to stoole, therefore on the seventh of <hi>June</hi> I gave him a Scru<g ref="char:EOLhyphen"/>ple of the Anti-pestilential Pill, which gave him two or three stooles, and so (by the blessing of God) he fully recoveerd.</p>
+               <div type="annotations">
+                  <head>Annotations.</head>
+                  <p>AT this time the Cure was (though seldome) now perfected Critically: and except on the Critical day, all Spontaneous Sweats were dangerous. The Tumors of this Patient was dissipated
+<pb n="50" facs="tcp:207760:28"/>by little and little: and so we have observed, that after the Feaver was gone, the Swelling went away, without danger to the Patient. <hi>Palmarius</hi> also observed the same <hi>De felre Pestilentiali, Cap.</hi> 20. Where he saith, I have seen many fully Cured, without having their Sores broak, the Venome by little and little being overcome by Antidotes, the matter of the Swelling being dispersed: but this holds not, when the Swelling goes away before the Disease be over<g ref="char:EOLhyphen"/>come, for then it is very dangerous. We would not give the Pa<g ref="char:EOLhyphen"/>tient any thing to Purge him before the Disease was Cured: For, we never found, that the Patients being bound prejudiced him, but Evacuations that way (though by Glisters) proved dange<g ref="char:EOLhyphen"/>rous.</p>
+               </div>
+            </div>
+            <div n="26" type="history">
+               <pb n="51" facs="tcp:207760:28"/>
+               <head>THE XXVI. FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>THe Wife of <hi>Gerrhard de Stolck,</hi> the third day after she was brought a Bed of a sound Childe, she had the Plague, and had two Carbuncles on her Breast; but she had no great pain, or Feaver, nor such bad Symptomes as others, all which were hopeful signes. The Infant took the Plague and di<g ref="char:EOLhyphen"/>ed, before she knew she had the Plague: the Infant being dead, they sought out some little Puppies to draw her Breasts, for they were full of Milk; they got four, of which two died within two dayes after, and the other died on the fifth day. All that while she took several Antidotes, but all failed, and she died the fixth day, and her Husband and another Childe foilowed her.</p>
+               <div type="annotations">
+                  <pb n="52" facs="tcp:207760:29"/>
+                  <head>Annotations.</head>
+                  <p>MOst Women have the Plague in Childbed, because of the great Alterations, they are then subject to die: and so the Infant, except presently put to Nurse, which appears (not onely here) by this Infant, but by the Pup<g ref="char:EOLhyphen"/>pies.</p>
+               </div>
+            </div>
+            <div n="27" type="history">
+               <head>THE XXVII. FAMOUS <hi>HISTORY.</hi>
+               </head>
+               <p>THe Wife of a Noble <hi>Scotch</hi> Man (<hi>Douglass</hi> by Name) on the 16 of <hi>May</hi> had the Plague, she was very weak from the beginning of it, and greatly oppressed, and some head-ach; her Water was thick, her Pulse was weak, quick, and uneven, but not very hot, nor did any Signes outwardly appear: I gave her this Antidote, which made her Sweat very well, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Theriaca Andromach. Diascordium, Fracastorium, of each half a Drachm.</hi>
+               </p>
+               <p>
+                  <hi>Salt of Wormwood one Scruple.</hi>
+               </p>
+               <p>
+                  <hi>The Eyes of Crabs prepared one scruple and an halfe.</hi>
+               </p>
+               <p>
+                  <hi>Treacle Water one ounce.</hi>
+               </p>
+               <pb n="53" facs="tcp:207760:29"/>
+               <p>
+                  <hi>The juice of Limons, Vinegar of Calendula, of each one ounce.</hi>
+               </p>
+               <p>She took a Spoonful or two of this mixture after her Sweat;</p>
+               <p>
+                  <hi>Conserve of Roses halfe an ounce</hi>
+               </p>
+               <p>
+                  <hi>Diascordium Fracastorium</hi> 2 <hi>drachms</hi>
+               </p>
+               <p>
+                  <hi>The VVater of Cardus Benedictus, and of Treacle water each two Ounces.</hi>
+               </p>
+               <p>
+                  <hi>The juice of green Limons one ounce</hi>
+               </p>
+               <p>
+                  <hi>Cinnamon water one ounce and an halfe.</hi>
+               </p>
+               <p>Mix them all together, and let them stand halfe an hour, then strain them, and add, <hi>viz,</hi>
+               </p>
+               <p>
+                  <hi>The Confection of Hiacinth, without Musk, one drachm.</hi>
+               </p>
+               <p>
+                  <hi>May</hi> 17. The Disease standing at a stay, she took this same Su<g ref="char:EOLhyphen"/>dorifick about noon. I appointed this Apozem, of which she drank three or four times a day, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>The Rootes of VVhite Thistle, of Butterbur, Dittany, Elecompane, Angelico, of each</hi> 1 <hi>ounce</hi> 2 <hi>drachms.</hi>
+               </p>
+               <p>
+                  <hi>Of Pelitory of Spain, of dry Peeles of Oranges half an ounce</hi>
+               </p>
+               <p>
+                  <hi>Scordian, Cardus Benedictus, each</hi> 1 <hi>Pugil and an half</hi>
+               </p>
+               <p>
+                  <hi>Sorrel</hi> 1 <hi>handful, Succory, Burnet, Saxifrage, Baum, Rue, of each half a handful.</hi>
+               </p>
+               <p>
+                  <hi>The four great cold Seeds, of each</hi> 1 <hi>drachm.</hi>
+               </p>
+               <p>
+                  <hi>Red Fitches</hi> 1 <hi>ounce.</hi>
+               </p>
+               <p>
+                  <hi>Boyl them in Running water to</hi> 2 <hi>Pound.</hi>
+               </p>
+               <p>Add to it (when it is strained) of the Sirrup of <hi>Citrons,</hi> and of <hi>Scordian,</hi> each one ounce: make an Apozem.</p>
+               <p>
+                  <hi>May</hi> 18. She took the mixture, and a Sudorifick, to which we added one Scruple and an halfe of the Extract of <hi>Cardus Benedictus:</hi> Sometimes she took a little of this Electuary, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Pulvis Liberantis</hi> 1 <hi>drachm.</hi>
+               </p>
+               <p>
+                  <hi>Diascordium Fracastorii</hi> 2 <hi>drachm.</hi>
+               </p>
+               <p>
+                  <hi>Of Orange Peeles Candied, Conserve of Red Roses, of each</hi> 3 <hi>drachms.</hi>
+               </p>
+               <p>
+                  <hi>Treacle</hi> 1 <hi>drachm.</hi>
+               </p>
+               <p>
+                  <hi>Confection of Hiacinth without Musk</hi> 4 <hi>Scruples.</hi>
+               </p>
+               <p>
+                  <hi>Sirrup of the Vinegar of Citrons as much as to make it up.</hi>
+               </p>
+               <pb n="54" facs="tcp:207760:30"/>
+               <p>That day she drank twice of the Apozem, so that the next night she was very weak, so that she could scarce take any thing; yet she took a little of this <hi>bolus,</hi> and found some ease, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Treacle, Confection of Hiacinth, Ori<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntal Bezoar Stone, of each one Scruple.</hi>
+               </p>
+               <p>Make it into a Bolus, lay it up in Leafe Gold.</p>
+               <p>Hitherto no external Signes of the Plague appeared, and the Feaver (which was not very violent) without any intermission con<g ref="char:EOLhyphen"/>tinued.</p>
+               <p>
+                  <hi>May</hi> the 20. As soon as she could take any thing I gave her the Apozem again, which she took, and made an end of.</p>
+               <p>The next day the same Apozem was made again.</p>
+               <p>
+                  <hi>May</hi> 24. Which was the ninth day, there was a Cricis (by a vehement Sweat) not caused by any Sudorifick, it was a good Cricis: after which her whole Body broke out with little red Pimples, as big as Millet Seed, and itched very much: and also there was a Swelling in her Groine, as big as a Pidgeons Egg, and so she was freed from her anguish, and other Symptomes. But, least she should fall into a Relapse, I prescribed the last Apozem on the eighteenth of <hi>May.</hi> I laid also a Poultis to that Swelling, and afterward a Playster, and it went away without breaking, and so by the mercy of God she was fully Cured.</p>
+               <p>Three dayes after she fell ill she could eat nothing, and after she used a spare diet, some Broth, with <hi>Sorrel, Oranges, Citrons, Bor<g ref="char:EOLhyphen"/>rage,</hi> and such like boyled in it: her Drink was small Ale, for she could not indure Julebs: for the seven first dayes she went but once to stoole, nor would I cause her to have one before the Cricis was over: After the Cricis was over I gave her a Scruple of <hi>Pillu<g ref="char:EOLhyphen"/>lae Ruffi,</hi> which gave her two or three stooles.</p>
+               <div type="annotations">
+                  <pb n="55" facs="tcp:207760:30"/>
+                  <head>Annotations.</head>
+                  <p>THis Sick Person was very observant of my Directions, and a true Patient, which few are; for she would do nothing with<g ref="char:EOLhyphen"/>out my Advice. When she was not refresht with the first Sweat, I caused her to be kept in a moderate heate and sweat to the fourth day, hoping that Nature would (by Swellings or Boyles) thrust out the Poyson: but, she was very weak that day, and there was no change followed: and when I saw no Crisis upon that day, I fully expected one upon the seventh day; therefore I wished her to be of good cheer, and to continue in that breathing Sweat untill the se<g ref="char:EOLhyphen"/>venth day, and, that she would find the Disease would change: she was very observant of my Directions, although she was in much an<g ref="char:EOLhyphen"/>guish, and she patiently indured her Sweat untill the seventh day, notwithstanding the noysomeness of it, for she shifted not her selfe all that while: for, I told her that it was very dangerous to shift her self, but, that no damage would accrew by induring the noy<g ref="char:EOLhyphen"/>someness of the smell of the Sweat: And, although on the seventh day she found no alteration, yet she willingly continued in that Sweat till the ninth day, though the seventh day she was worse than before.</p>
+                  <p>If any Feaver had been in this time, she might know then that she had taken the Infection, though there should no signe appear: for many times (though at the first) nothing of the Plague appeares, yet it turnes to it in a few houres. Though this seldome happens, as both <hi>Montanus</hi> and <hi>Forestus</hi> say, <hi>There are abundance of continued Feavers, some Tertian,</hi> &amp;c. <hi>which quickly turne to the Plague:</hi> There<g ref="char:EOLhyphen"/>fore I judge it very good to Administer <hi>Physick,</hi> as if it were the Plague; and not to stay untill strength failes, and the Disease growes desperate: For, if you neglect at first, the Venome will be so rooted in the Heart, that Medecines will do no good: for we must not stay from Oppugning this Enemy untill he comes out of his
+<pb n="56" facs="tcp:207760:31"/>lurking places, and openly appears: nor leave off untill you have utterly subdued him, as we in this Cure did.</p>
+                  <p>But it seldome comes to pass in others as in this Patient, that no Symptomes should appear of the Plague before the Critical day: for, although neither Carbuncles, Swellings, nor any Tokens do ap<g ref="char:EOLhyphen"/>pear, we are not presently to conclude (as the Common People do) That they have not the Plague: for it may lye hid a long while be<g ref="char:EOLhyphen"/>fore it appears to be the Plague: and many times the Malignity of the Poyson kills, before it appears, as it is generally known: for in divers, the first time such outward Symptomes appear, is after they are dead: and many times strength is so weak, that it cannot expel the Venome to the outward Parts.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:207760:31"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>February the</hi> 1. 1666.</date>
+               </dateline>
+            </opener>
+            <p>Printed for <hi>Matthew Keinton,</hi> at the Sign of the <hi>Fountain</hi> in St. <hi>Pauls Church-Yard.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
